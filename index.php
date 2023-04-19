@@ -28,6 +28,12 @@
     </div>
     <div class="menu">
         <a href="lab1/lab1.php" class="select">Лабораторная работа №1</a>
+        <a href="lab2/lab2.php" class="select">Лабораторная работа №2</a>
+        <a href="lab2/lab3.php" class="select">Лабораторная работа №3</a>
+        <a href="lab4/lab4.php" class="select">Лабораторная работа №4</a>
+        <a href="lab5/lab5.php" class="select">Лабораторная работа №5</a>
+        <a href="lab6/lab6.php" class="select">Лабораторная работа №6</a>
+        <a href="lab7-8/lab7-8.php" class="select">Лабораторная работа №7-8</a>
     </div>
 </body>
 </html>
