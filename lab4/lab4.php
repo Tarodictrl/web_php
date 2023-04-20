@@ -4,12 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../index.css">
     <title>Лабораторная работа №4</title>
 </head>
 <body>
-    <h1>
-        Лабораторная работа №4
-    </h1>
+    <div class="title">
+        <h1>
+            Лабораторная работа №4
+        </h1>
+    </div>
 </body>
 </html>
 
