@@ -17,5 +17,33 @@
 </html>
 
 <?php
-
+echo '<table border=1>';
+for ($i=0; $i<=255; $i += 125)
+{
+    echo '<tr>';
+ 
+    for ($j=0; $j<=255; $j += 125)
+    {
+        for ($k=0; $k<=255; $k += 125)
+        {
+            echo '<td style="background-color:RGB('.$i.', '.$j.', '.$k.');"> rgb('.$i.', '.$j.', '.$k.')</td>';
+        }
+    }
+ 
+    echo '</tr>';
+}
+echo'</table>';
+echo '<table border=1>';
+for ($i=1; $i<=10; $i++)
+{
+    echo '<tr>';
+ 
+    for ($j=1; $j<=10; $j ++)
+    {
+        echo '<td>'.$i*$j.'</td>';
+    }
+ 
+    echo '</tr>';
+}
+echo'</table>';
 ?>
